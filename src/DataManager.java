@@ -144,6 +144,7 @@ public class DataManager {
             }
             jsonArray.add(jsonObject);
             writeJsonArrayToFile(jsonArray);
+            System.out.println("Success: "+key+":"+value+" is created");
         }catch (IOException | ParseException e){
             e.printStackTrace();
         }
@@ -189,6 +190,7 @@ public class DataManager {
             }
             jsonArray.add(jsonObject);
             writeJsonArrayToFile(jsonArray);
+            System.out.println("Success: "+key+":"+value+" is created");
         } catch (ParseException | IOException e){
             e.printStackTrace();
         }

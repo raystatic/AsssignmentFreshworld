@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
-public class Demo {
+public class Assignment {
 
     private static DataManager dataManager;
     private static Scanner scanner;
-    private static String cont = "Y";
     public static void main(String[] args) {
 
         dataManager = new DataManager();
