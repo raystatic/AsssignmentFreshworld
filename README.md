@@ -36,3 +36,8 @@
 
 ### Delete a data if timeout to live propert expired
 ![delete_tm_expired](https://user-images.githubusercontent.com/31301266/103349957-73b1a700-4ac4-11eb-8495-e1ab27c76dea.png)
+
+
+### DB_FILE_DEMO
+![Screenshot (155)](https://user-images.githubusercontent.com/31301266/103350477-1ae30e00-4ac6-11eb-9ccc-e91432c826f4.png)
+
